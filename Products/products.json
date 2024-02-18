@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Helado de Chocolate",
+    "description": "Delicioso helado de chocolate cremoso.",
+    "price": 3.5,
+    "thumbnail": "chocolate.jpg",
+    "code": "CHOC001",
+    "stock": 50
+  },
+  {
+    "id": "2",
+    "title": "Helado de Vainilla",
+    "description": "Suave helado de vainilla con trozos de vaina de vainilla real.",
+    "price": 3.0,
+    "thumbnail": "vainilla.jpg",
+    "code": "VAIN002",
+    "stock": 40
+  },
+  {
+    "id": "3",
+    "title": "Helado de Fresa",
+    "description": "Fresco helado de fresa con trozos de fruta real.",
+    "price": 4.0,
+    "thumbnail": "fresa.jpg",
+    "code": "FRES003",
+    "stock": 35
+  }
+]
